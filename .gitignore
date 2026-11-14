@@ -1,0 +1,9 @@
+venv/
+.venv/
+data/
+*.csv
+*.pcap
+*.pcapng
+__pycache__/
+*.pyc
+.env
